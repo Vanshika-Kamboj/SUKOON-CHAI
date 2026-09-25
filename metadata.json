@@ -1,0 +1,6 @@
+{
+  "name": "Sukoon Chai — Ek Cup, Thoda Sukoon",
+  "description": "Premium Indian tea lifestyle brand celebrating the quiet feeling of chai. Authentic Masala Chai, Adrak Chai, Tulsi Green Tea, and Rose blends crafted for everyday rituals of calm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
